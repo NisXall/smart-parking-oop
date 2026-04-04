@@ -1,0 +1,12 @@
+# Java build output
+out/
+*.class
+
+# Local runtime database
+*.db
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
